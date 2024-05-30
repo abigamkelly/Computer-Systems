@@ -1,0 +1,6 @@
+John,Doe,24,Computer Science
+Jane,Doe,22,Mechanical Engineering
+Charles,Babbage,21,Math
+George,Bool,25,Math
+Marie,Curie,26,Chemistry
+John,Doe,32,Music
